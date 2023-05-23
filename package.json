@@ -10,7 +10,7 @@
   },
   "homepage": "https://google-calendar-hours.com/",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.1.0",
+    "@reduxjs/toolkit": "^1.9.5",
     "bootstrap": "^5.0.0-beta3",
     "classnames": "^2.2.6",
     "dayjs": "^1.8.36",
@@ -97,7 +97,7 @@
     "prettier": "^2.1.1",
     "prettier-eslint-cli": "^5.0.0",
     "react-app-polyfill": "^1.0.6",
-    "react-dev-utils": "^11.0.4",
+    "react-dev-utils": "^12.0.1",
     "resolve": "^1.15.0",
     "resolve-url-loader": "^3.1.2",
     "sass-loader": "^8.0.2",
